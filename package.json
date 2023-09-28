@@ -1,6 +1,6 @@
 {
   "name": "@dilippm/sortify-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package providing a collection of versatile sorting algorithms for various data types. This package includes efficient implementations of merge sort, heap sort, and quick sort, allowing developers to sort different types of data structures effortlessly and efficiently in JavaScript projects.",
   "main": "index.js",
   "scripts": {
