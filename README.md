@@ -13,7 +13,7 @@ npm i @dilippm/sortify-js
 # Usage
 
 ## Merge Sort
-const mergeSort = require('@dilippm/sortify-js/mergeSort');
+const mergeSort = require('@dilippm/sortify-js/mergeSort/mergeSort.js');
 
 // Example usage for ascending order
 const ascendingArray = [5, 3, 1, 4, 2];
