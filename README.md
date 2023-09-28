@@ -1,3 +1,4 @@
+
 # Sorting Algorithms
 
 This is a JavaScript package that provides implementations of three popular sorting algorithms: Merge Sort, Heap Sort, and Quick Sort. You can use these algorithms to efficiently sort arrays of data in both ascending and descending order.
@@ -27,5 +28,6 @@ console.log('Descending Sort:', descendingSortedArray);
 
 #Contributions
 Contributions are welcome! If you have suggestions, bug reports, or want to add more sorting algorithms, please open an issue or submit a pull request.
+
 
 
