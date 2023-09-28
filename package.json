@@ -1,0 +1,31 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "An npm package providing a collection of versatile sorting algorithms for various data types. This package includes efficient implementations of merge sort, heap sort, and quick sort, allowing developers to sort different types of data structures effortlessly and efficiently in JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilippm/sorting-algorithm-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "sorting",
+    "merge",
+    "quick",
+    "heap",
+    "sort"
+  ],
+  "author": "Dilip P M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilippm/sorting-algorithm-npm/issues"
+  },
+  "homepage": "https://github.com/Dilippm/sorting-algorithm-npm#readme",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "jest": "^29.7.0"
+  }
+}
